@@ -8,7 +8,7 @@ It includes:
 - I²C bus initialization for the ESP32
 - HAL-style function pointers to connect ESP-IDF I²C to the BMI160 driver
 
-> **Note**: This repo contains both the example application and the driver itself. The reusable BMI160 driver is maintained separately and can be accessed here **include link**
+> **Note**: This repo contains both the example application and the driver itself. The reusable BMI160 driver is maintained separately and can be accessed here **https://github.com/edward-baptiste/agnostic-bmi-160**
 
 ---
 
@@ -17,7 +17,7 @@ It includes:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/agnostic-bmi-160-esp32-example.git
+git clone https://github.com/edward-baptiste/agnostic-bmi-160-esp32-example.git
 cd esp32-bmi160-example
 ```
 
